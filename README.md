@@ -1,5 +1,5 @@
 - 👋 Hi, I am Jaya
-- 🌱 I’m currently a BE grad in Electronics and Telecommunication
+- 🌱 I’m currently a BE grad in Electronics and Telecommunications
 - 📫 Reach me via email - jaya241999@gmail.com
 
 <!---
